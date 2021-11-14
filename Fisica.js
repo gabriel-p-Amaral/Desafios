@@ -8,7 +8,7 @@
  * 
  */
 
-var v = d/t
 var d = 30
 var t = 60
+var v = (d/t)
 console.log(v)
